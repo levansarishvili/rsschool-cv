@@ -6,7 +6,7 @@
 - 📞 Phone: +995 558786740
 - 📧 E-mail: levanisarishvili322@gmail.com
 - 🔗 GitHub: [levansarishvili](https://github.com/levansarishvili)
-- 🔗 Linkedin: [levansarishvili](https://www.linkedin.com/in/levan-sarishvili-b87245b1/)
+- 🔗 Linkedin: [levansarishvili](https://www.linkedin.com/in/levan-s-b87245b1/)
 
 ## 📝 Summary
 
