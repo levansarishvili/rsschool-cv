@@ -213,6 +213,15 @@ li {
   padding-top: 2rem;
 }
 
+.code-example-wrapper {
+  max-width: 60rem;
+}
+
+.code-example-img {
+  width: 100%;
+  border-radius: 1rem;
+}
+
 .project a:link {
   color: #444;
 }
